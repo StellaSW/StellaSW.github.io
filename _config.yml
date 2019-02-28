@@ -1,5 +1,6 @@
 # Site settings
-title: personal website
+title: Shengyu Wu
+skills: "Mcmaster University/Mathematics & Computer Science"
 email: wushengyu222@gmail.com
 url: https://stellasw.github.io
 description: "personal website based on jekyll theme."
@@ -13,8 +14,8 @@ contact: static
 
 # Color settings (hex-codes without the leading hash-tag)
 color:
-  primary: 18bc9c #80B3FF
-  primary-rgb: "24,288,156" #"128,179,255"
+  primary: 80accc #80B3FF
+  primary-rgb: "128, 172, 204" #"128,179,255"
   secondary: 2c3e50 #FD6E8A
   secondary-dark: 233140 #A2122F
 
